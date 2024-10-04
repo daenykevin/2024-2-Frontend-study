@@ -1,0 +1,26 @@
+.zzang {
+    color: red;
+    background-color: yellow;
+}
+
+#counting-num {
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px black;
+}
+
+#increase10, #increase, #reset, #decrease, #decrease10 {
+    color: white;
+    background-color: black;
+    width: 80px;
+    height: 40px;
+    border: 20px;
+    outline-style: solid;
+    outline-color: navy;
+    outline-width: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
